@@ -21,8 +21,6 @@ import java.util.TreeMap;
  */
 public class VISAIssuerDataGTM {
     
-
-    
     public final Map<Short, String> IssuerData = new TreeMap<>();
     
     public VISAIssuerDataGTM() {
